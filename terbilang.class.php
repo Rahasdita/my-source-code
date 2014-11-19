@@ -1,6 +1,6 @@
 <?php
 class Terbilang {
-	private $angka ;
+	private $angka = 0;
 	protected $curr = "rupiah";
 	private $nol = "nol";
 	private $arraySat = array("satu", "dua", "tiga", "empat", "lima",
